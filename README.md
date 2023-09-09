@@ -127,4 +127,3 @@ Email: harsh.p.walia@gmail.com
 
     AWS_ECR_LOGIN_URI = demo>>  550949661474.dkr.ecr.us-east-2.amazonaws.com
 
-    ECR_REPOSITORY_NAME = textsumm
